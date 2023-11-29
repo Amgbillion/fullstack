@@ -1,0 +1,6 @@
+/home/springboot/employee-app/employeemanagmentbackend/src/main/java/com/tutorial/employeemanagmentbackend/repository/EmployeeRepository.java
+/home/springboot/employee-app/employeemanagmentbackend/src/main/java/com/tutorial/employeemanagmentbackend/model/Employee.java
+/home/springboot/employee-app/employeemanagmentbackend/src/main/java/com/tutorial/employeemanagmentbackend/service/EmployeeService.java
+/home/springboot/employee-app/employeemanagmentbackend/src/main/java/com/tutorial/employeemanagmentbackend/controller/EmployeeController.java
+/home/springboot/employee-app/employeemanagmentbackend/src/main/java/com/tutorial/employeemanagmentbackend/EmployeemanagmentbackendApplication.java
+/home/springboot/employee-app/employeemanagmentbackend/src/main/java/com/tutorial/employeemanagmentbackend/service/EmployeeServiceInterface.java
